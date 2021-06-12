@@ -1,0 +1,27 @@
+.defaultSprite 
+ { 
+        background-image: url(sprite.png);
+        background-repeat: no-repeat;
+        display: block; 
+ }
+.discord 
+ {
+        width: 227px;
+        height: 222px;
+        padding: 0px;
+        background-position:0px 0px; 
+ }
+.instagram 
+ {
+        width: 631px;
+        height: 640px;
+        padding: 0px;
+        background-position:-483px 0px; 
+ }
+.twitter 
+ {
+        width: 1200px;
+        height: 627px;
+        padding: 0px;
+        background-position:0px -640px; 
+ }
